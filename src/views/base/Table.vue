@@ -36,7 +36,8 @@ export default {
     fields: {
       type: Array,
       default () {
-        return ['username', 'registered', 'role', 'status']
+        // return ['username', 'registered', 'role', 'Status']
+        return ['No', 'NoNota', 'Nama', 'TanggalPesan', 'TanggalSelesai', 'StatusPembayaran']
       }
     },
     caption: {

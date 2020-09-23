@@ -1,5 +1,5 @@
 const usersData = [
-  { username: 'Samppa Nori', registered: '2012/01/01', role: 'Member', status: 'Active'},
+  { No: '1', NoNota: 'GD8811608191', Nama:'Reza Ramadhan', TanggalPesan:'16/01/2020', TanggalSelesai: '19/01/2020', StatusPembayaran:'Lunas'},
   { username: 'Estavan Lykos', registered: '2012/02/01', role: 'Staff', status: 'Banned'},
   { username: 'Chetan Mohamed', registered: '2012/02/01', role: 'Admin', status: 'Inactive'},
   { username: 'Derick Maximinus', registered: '2012/03/01', role: 'Member', status: 'Pending'},
@@ -27,5 +27,3 @@ const usersData = [
 ]
 
 export default usersData
-
-
